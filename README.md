@@ -1,1 +1,1 @@
-# spring-boot-chatApp
+# Spring boot chat application
